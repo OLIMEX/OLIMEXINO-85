@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For Wire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setMode KEYWORD2
+getData KEYWORD2
+sendData KEYWORD2
+setAdress KEYWORD2
+getID KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+IRDA+ KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SIRC LITERAL1
+RC5 LITERAL1

@@ -1,0 +1,14 @@
+Partlist exported from D:/TortoiseSVN-Files/EagleProjects-LocalCopies/OLIMEXINO-85/Hardware/trunk/BRD/Olimexino-85_Rev_A.sch at 25/10/2013 8:02:23 
+
+Qty Value                         Device          Parts                             
+3   1.5k/0.125W                   R-EU_0204/5     R1, R2, R3                        
+2   1N4148/DO35                   D1N4148-7.62MM  D1, D2                            
+1   10uF/16V/105C(5x11mm,RM2)     CPOL-EUE2-5     C1                                
+2   22R/0.125W                    R-EU_0204/5     R4, R5                            
+1   100nF/2010                    C-EU025-025X050 C2                                
+1   ATtiny85-20PU+(DIL-8)+(HR1x8) ATTINY85        U1                                
+1   LED/3mm/Green                 LED3.0MM        PWR                               
+1   LED/3mm/Red                   LED3.0MM        STAT                                                        
+8   TESTPAD3                      TESTPAD3        #0, #1, #2, #3, #4, #RST, GND, VCC
+1   TSR-1(T1101GP/6x3x4.3)        SW-TAKT3        RST                               
+1   USB-B                         USB_SHIELD      USB

@@ -14,9 +14,9 @@ http://digistump.com/wiki/digispark/tutorials/connecting
 
 2. Copy the contents of folder "libaries" to xxx\arduino-x.x.x\libraries. It is extremely important to paste only the contents there (do not create new folders in it else libraries would not be found).
 
-3. The examples are ready to be used via Open->Examples or Open -> File in the Arduino IDE
+3. You can now load the examples via Open->Examples or Open -> File in the Arduino IDE
 
 Note that each example has a readme file in its folder detailing furhter how to use it and how it works.
 
-85_firmware folder contains the bootloaders that can be used to flash the board via any compatible AVR programmer in case of electrical failure or bootloader override.
+Folder "Firmware" contains the bootloaders that can be used to flash the board via any compatible AVR programmer in case of electrical failure or bootloader override.
  

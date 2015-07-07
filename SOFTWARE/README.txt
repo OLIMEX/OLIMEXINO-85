@@ -18,5 +18,5 @@ http://digistump.com/wiki/digispark/tutorials/connecting
 
 Note that each example has a readme file in its folder detailing furhter how to use it and how it works.
 
-Folder "Firmware" contains the bootloaders that can be used to flash the board via any compatible AVR programmer in case of electrical failure or bootloader override.
+Folder "Firmware" contains the bootloader that can be used to flash the board via any compatible AVR programmer in case of electrical failure or bootloader override.
  

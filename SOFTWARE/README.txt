@@ -8,7 +8,7 @@ To be able to use the demos:
 
 0. You need an Arduino IDE configured for DIGISPARK. You can configure Arduino IDE for ATtiny85 (OLIMEXINO-85-ASM, OLIMEXINO-85-KIT, FOSDEM-85, SIMON-85, SIMON-85-KIT, OLIMEXINO-85BC, OLIMEXINO-85S) following the advice here:
 
-http://digistump.com/wiki/digispark/tutorials/connecting
+https://web.archive.org/web/20180831071913/http://digistump.com/wiki/digispark/tutorials/connecting
 
 1. Copy the contents of the first folder of this archive "O85_examples" to xxx\arduino-x.x.x\examples\ folder.
 
